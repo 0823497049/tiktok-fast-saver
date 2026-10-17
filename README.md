@@ -1,29 +1,26 @@
 # TikTok Fast Saver - No Watermark
 
 🚀 Live Demo: https://tiktok-fast-saver.netlify.app
-📱 Permanent QR - Never expires!
+📖 Blog Post: https://dev.to/sandile_ximba_d115332b9ee/fancy-qr-codes-dont-scan-4101
+🔳 Permanent QR - Never expires!
 
 A fast, free TikTok video downloader with no watermark. Built in Durban, SA.
 
 ## ✨ Features
 - ✅ No watermark
-- ✅ Permanent QR code (works forever)
-- ✅ Mobile-friendly
-- ✅ No login required
-- ✅ Fast Netlify hosting
+- ✅ Fast download
+- ✅ Works on mobile
+- ✅ Free forever
 
-## 🛠️ How I fixed the QR issue
-Most QR generators (the-qrcode-generator.com) expire after 30 days. 
-Fancy poster QRs don't scan. Solution:
-- Use qrcode-monkey.com (permanent)
-- Use plain black/white QR for website footer
-- Fancy version only for WhatsApp Status
+## 📖 Read the Story
+Fancy QR looks cool but doesn't scan. Plain QR works forever.
+
+Read how I learned this: https://dev.to/sandile_ximba_d115332b9ee/fancy-qr-codes-dont-scan-4101
 
 ## 🔗 Links
 - Live: https://tiktok-fast-saver.netlify.app
-- GitHub: https://github.com/0823497049/tiktok-fast-saver
+- Code: https://github.com/0823497049/tiktok-fast-saver
+- Blog: https://dev.to/sandile_ximba_d115332b9ee/fancy-qr-codes-dont-scan-4101
 
-## 📸 QR
-![QR](tt-saver-final/images/qr.png)
-
-Built with ❤️ in Durban - 2026
+Built by Sandile Elphas Ximba | FNB App Academy 2025
+Durban, South Africa 🇿🇦
